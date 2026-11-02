@@ -8,3 +8,10 @@ env.bak/
 venv.bak/
 
 .idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Audio for ex021 (add your own MP3 locally)
+*.mp3
