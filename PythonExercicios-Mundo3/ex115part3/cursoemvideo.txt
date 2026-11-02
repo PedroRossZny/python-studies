@@ -1,2 +1,2 @@
-Pedro;20
-Gabriela;23
+Ana;34
+Bruno;27
